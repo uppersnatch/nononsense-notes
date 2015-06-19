@@ -1,0 +1,1 @@
+Please report issues at https://github.com/spacecowboy/NotePad/
