@@ -1,38 +1,48 @@
 [
 {
+	"id":"1",
 	"address":"Nizami kucesi 57, Baku, Azerbaijan",
 	"contact_name":"Azer B.",
 	"contact_phone":"+994502222222",
 	"lat":"40.3739848",
-	"lon":"49.8402566"
+	"lon":"49.8402566",
+	"fav":true
 },
 {
+	"id":"2",
 	"address":"Nizami kucesi 57, Baku, Azerbaijan",
 	"contact_name":"Azer B.",
 	"contact_phone":"+994502222222",
 	"lat":"40.3739848",
-	"lon":"49.8402566"
+	"lon":"49.8402566",
+	"fav":false
 },
 {
+	"id":"3",
 	"address":"Nizami kucesi 57, Baku, Azerbaijan",
 	"contact_name":"Azer B.",
 	"contact_phone":"+994502222222",
 	"lat":"40.3739848",
-	"lon":"49.8402566"
+	"lon":"49.8402566",
+	"fav":true
 },
 {
+	"id":"4",
 	"address":"Nizami kucesi 57, Baku, Azerbaijan",
 	"contact_name":"Azer B.",
 	"contact_phone":"+994502222222",
 	"lat":"40.3739848",
-	"lon":"49.8402566"
+	"lon":"49.8402566",
+	"fav":true
 },
 {
+	"id":"5",
 	"address":"Nizami kucesi 57, Baku, Azerbaijan",
 	"contact_name":"Azer B.",
 	"contact_phone":"+994502222222",
 	"lat":"40.3739848",
-	"lon":"49.8402566"
-}
+	"lon":"49.8402566",
+	"fav":false
+},
 
 ]
