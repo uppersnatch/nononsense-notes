@@ -1,0 +1,13 @@
+/* default value, applies to all devices */
+.button {width: 100%}
+@media (min-width: 480px) {
+  /* this rule applies only to devices with a minimum screen width of 480px */
+  .button {
+    width: 50%;
+  }
+}
+.input,
+.button {
+  height: 44px;
+  width: 100%;
+}
