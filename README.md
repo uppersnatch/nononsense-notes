@@ -11,12 +11,6 @@ Latest updates posted on [http://www.nononsenseapps.com](http://www.nononsenseap
 The app should work fine but sync will display an error message. To get it working you will need to put an API key in this file here:
 https://github.com/spacecowboy/NotePad/blob/master/NoNonsenseNotes/src/com/nononsenseapps/build/Config.java
 
-<h1>The a href attribute</h1>
-
-<p>An absolute URL: <a href="https://demo.citycarrier.com:5000">W3Schools</a></p>
-<p>A relative URL: <a href="https://demo.citycarrier.com:5000/">The a tag</a></p>
-
-
 You need to replace this line:
 
 ```java
